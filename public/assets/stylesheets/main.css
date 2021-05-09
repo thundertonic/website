@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'BaskervilleF';
+    src: url(../fonts/baskervillef-regular.woff) format('woff');
+}
+  
+@font-face {
+    font-family: 'BaskervilleF';
+    src: url(../fonts/baskervillef-italic.woff) format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+* {
+    font-family: 'BaskervilleF', 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+}
